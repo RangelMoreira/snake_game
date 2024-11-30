@@ -9,7 +9,7 @@ screen = Screen()
 screen.setup(width=600, height=600)
 screen.bgcolor("black")
 screen.title("My New_Segment Game")
-screen.tracer(0)  # Não exibe nada na tela
+screen.tracer(0)  # Does not display anything on the screen
 
 snake = Snake()
 food = Food()
