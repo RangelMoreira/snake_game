@@ -3,13 +3,13 @@
 
 # About the project
 
-Classic game from old Nokia cell phones, now developed in Python using the Turtle library.
-In this game, we control a snake that goes after apples and, with each apple eaten, the snake grows in size and one point is added to the score.
+Classic game from old Nokia cell phones now developed in Python using the Turtle library during the 'Master Python by Building 100 Projects' course.
+
+In this game we control a snake that goes after apples and with each apple eaten, the snake grows in size and one point is added to the score.
 
 If the snake collides with the edges of the screen or with itself, the game ends.
 
 The highest score will be recorded in a txt file.
-
 
 ## Layout
 
