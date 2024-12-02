@@ -52,7 +52,7 @@ venv\Scripts\activate
 python main.py
 ```
 
-# Autor
+# Author
 
 Kevin Rangel Moreira
 
